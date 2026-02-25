@@ -22,7 +22,7 @@ void main() {
     child: MaterialApp(
         debugShowCheckedModeBanner: false,
         theme: ThemeData(primaryColor: Colors.deepOrange),
-        title: "Flutter Taxi",
+        title: "لحكني - LAHAGNI",
         home: MyApp()),
   ));
 }
